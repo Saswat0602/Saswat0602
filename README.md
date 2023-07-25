@@ -1,7 +1,14 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
 # 💫 About Me:
-I'm currently studying MCA<br>🌱 I’m currently learning React ,Redux<br>💬 Ask me about JS,<br><br>📫 How to reach me saswatranjan0602@gmail.com<br><br>⚡ Fun fact I think i'm funny 😁.
+
+<h1 align="center"> I'm Saswat Ranjan Mohanty</h1>
+<h3 align="center">A passionate frontend/MERN stack developer from India.</h3>
+
+- I'm currently studying MCA<br>🌱 I’m currently learning React ,Redux<br>💬 Ask me about JS,<br><br>📫 How to reach me saswatranjan0602@gmail.com<br><br>
+- 👨‍💻 Here is my portfolio -- [https://saswatranjan.netlify.app/](https://saswatranjan.netlify.app/)
+
+⚡ Fun fact I think i'm funny 😁.
 <img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding">
 
 ## 🌐 Socials:
