@@ -5,7 +5,7 @@
 <h1 align="center"> I'm Saswat Ranjan Mohanty</h1>
 <h3 align="center">A passionate frontend/MERN stack developer from India.</h3>
 
-- I'm Completed my  MCA<br>🌱 I’m currently learning React ,Redux<br>💬 Ask me about JS,<br><br>📫 How to reach me saswatranjan0602@gmail.com<br><br>
+- I have Completed my  MCA<br>🌱 I’m currently learning React ,Redux<br>💬 Ask me about JS,<br><br>📫 How to reach me saswatranjan0602@gmail.com<br><br>
 - 👨‍💻 Here is my portfolio -- [https://saswatranjan.netlify.app/](https://saswatranjan.netlify.app/)
 
 ⚡ Fun fact I think i'm funny 😁.
