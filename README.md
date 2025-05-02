@@ -8,7 +8,7 @@
 - I have Completed my  MCA<br>🌱 I’m currently learning SWIFT ,AWS<br>💬 Ask me about JS,<br><br>📫 How to reach me saswatranjan0602@gmail.com<br><br>
 - 👨‍💻 Here is my portfolio -- [https://saswatranjan.netlify.app/](https://saswatranjan.netlify.app/)
 
-⚡ Fun fact I think i'm funny 😁.
+⚡ Fun fact I thinking currently  😁.
 <img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding">
 
 ## 🌐 Socials:
@@ -25,8 +25,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Saswat0602&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Saswat0602&icon=0&color=6)](https://visitcount.itsvg.in)
