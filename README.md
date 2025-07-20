@@ -4,7 +4,7 @@
 
 # ⚡ **WELCOME TO MY DIGITAL REALM** ⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=140&lines=💻+FULL+STACK+DEVELOPER+💻;🚀+MERN+STACK+ARCHITECT+🚀;⚡+CODE+ALCHEMIST+⚡;🎯+INNOVATION+CATALYST+🎯" alt="Flashy Developer Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=💻+FULL+STACK+DEVELOPER+💻;🚀+MERN+STACK+ARCHITECT+🚀;📱+REACT+NATIVE+DEVELOPER+📱;⚡+CODE+ALCHEMIST+⚡" alt="Flashy Developer Animation" />
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
@@ -137,48 +137,41 @@ console.log(developer.getStatus()); // 🚀 Ready to innovate!
 
 <br/>
 
-### 🎨 **SKILL MASTERY LEVELS** 🎨
+### 💫 **EXPERTISE SHOWCASE** 💫
+
+<div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%">
-
-**⚛️ React Ninja**
-<br/>
-![React](https://img.shields.io/badge/EXPERT-95%25-00D9FF?style=flat-square&labelColor=000000)
-<br/>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d33-987a-4447d70ece01" width="60"/>
-
+<td width="20%" align="center">
+<img src="https://skillicons.dev/icons?i=react" height="60"/>
+<br><strong>React Expert</strong>
+<br><img src="https://img.shields.io/badge/95%25-00D9FF?style=flat&labelColor=1a1b27" height="20"/>
 </td>
-<td align="center" width="25%">
-
-**🟨 JS Wizard**
-<br/>
-![JavaScript](https://img.shields.io/badge/EXPERT-90%25-F7DF1E?style=flat-square&labelColor=000000)
-<br/>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="60"/>
-
+<td width="20%" align="center">
+<img src="https://skillicons.dev/icons?i=js" height="60"/>
+<br><strong>JavaScript Pro</strong>
+<br><img src="https://img.shields.io/badge/90%25-F7DF1E?style=flat&labelColor=1a1b27" height="20"/>
 </td>
-<td align="center" width="25%">
-
-**🟢 Node Master**
-<br/>
-![NodeJS](https://img.shields.io/badge/ADVANCED-85%25-68D391?style=flat-square&labelColor=000000)
-<br/>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cd07c0b4-6d31-4b96-8de9-16c6b2e6b7cf" width="60"/>
-
+<td width="20%" align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" height="60"/>
+<br><strong>Node.js Master</strong>
+<br><img src="https://img.shields.io/badge/85%25-68D391?style=flat&labelColor=1a1b27" height="20"/>
 </td>
-<td align="center" width="25%">
-
-**🍃 MongoDB Pro**
-<br/>
-![MongoDB](https://img.shields.io/badge/ADVANCED-80%25-47A248?style=flat-square&labelColor=000000)
-<br/>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="60"/>
-
+<td width="20%" align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" height="60"/>
+<br><strong>MongoDB Pro</strong>
+<br><img src="https://img.shields.io/badge/80%25-47A248?style=flat&labelColor=1a1b27" height="20"/>
+</td>
+<td width="20%" align="center">
+<img src="https://skillicons.dev/icons?i=java" height="60"/>
+<br><strong>Java Developer</strong>
+<br><img src="https://img.shields.io/badge/75%25-ED8B00?style=flat&labelColor=1a1b27" height="20"/>
 </td>
 </tr>
 </table>
+
+</div>
 
 </div>
 
@@ -209,8 +202,7 @@ console.log(developer.getStatus()); // 🚀 Ready to innovate!
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saswat0602&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" width="45%"/>
 
-### 🏆 **TROPHY CABINET** 🏆
-<img src="https://github-profile-trophy.vercel.app/?username=Saswat0602&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Reviews,Issues" width="100%"/>
+
 
 ### 📈 **CONTRIBUTION GRAPH** 📈
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saswat0602&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Saswat's%20Code%20Journey&area_color=1A1B27" width="100%"/>
@@ -318,6 +310,59 @@ console.log(developer.getStatus()); // 🚀 Ready to innovate!
 <div align="center">
 
 ## 🌐 **CONNECT WITH THE WIZARD** 🧙‍♂️
+
+### 🚀 **CONNECT & COLLABORATE** 🚀
+
+<div align="center">
+
+<table>
+<tr>
+<td width="20%" align="center">
+<img src="https://skillicons.dev/icons?i=react" height="40"/>
+<br><strong>React</strong>
+</td>
+<td width="20%" align="center">
+<img src="https://skillicons.dev/icons?i=js" height="40"/>
+<br><strong>JavaScript</strong>
+</td>
+<td width="20%" align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
+<br><strong>Node.js</strong>
+</td>
+<td width="20%" align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
+<br><strong>MongoDB</strong>
+</td>
+<td width="20%" align="center">
+<img src="https://skillicons.dev/icons?i=aws" height="40"/>
+<br><strong>AWS</strong>
+</td>
+</tr>
+<tr>
+<td width="20%" align="center">
+<img src="https://skillicons.dev/icons?i=java" height="40"/>
+<br><strong>Java</strong>
+</td>
+<td width="20%" align="center">
+<img src="https://skillicons.dev/icons?i=python" height="40"/>
+<br><strong>Python</strong>
+</td>
+<td width="20%" align="center">
+<img src="https://skillicons.dev/icons?i=swift" height="40"/>
+<br><strong>Swift</strong>
+</td>
+<td width="20%" align="center">
+<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+<br><strong>MySQL</strong>
+</td>
+<td width="20%" align="center">
+<img src="https://skillicons.dev/icons?i=git" height="40"/>
+<br><strong>Git</strong>
+</td>
+</tr>
+</table>
+
+</div>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="150"/>
 
