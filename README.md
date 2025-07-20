@@ -4,7 +4,7 @@
 
 # ⚡ **WELCOME TO MY DIGITAL REALM** ⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=💻+FULL+STACK+DEVELOPER+💻;🚀+MERN+STACK+ARCHITECT+🚀;📱+REACT+NATIVE+DEVELOPER+📱;⚡+CODE+ALCHEMIST+⚡" alt="Flashy Developer Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&multiline=false&width=800&height=80&lines=💻+FULL+STACK+DEVELOPER+💻;🚀+MERN+STACK+ARCHITECT+🚀;📱+REACT+NATIVE+DEVELOPER+📱;⚡+CODE+ALCHEMIST+⚡;🌟+INNOVATION+CATALYST+🌟" alt="Flashy Developer Animation" />
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
