@@ -67,7 +67,7 @@ console.log(developer.getStatus()); // 🚀 Ready to innovate!
 ### 🎯 **QUICK STATS**
 
 ```yaml
-⚡ Age: 23
+⚡ Age: 25
 🎓 Degree: MCA
 💼 Role: SDE-I
 🌍 Base: India
