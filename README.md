@@ -364,39 +364,7 @@ console.log(developer.getStatus()); // 🚀 Ready to innovate!
 <div align="center">
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0fd5d6dd-fb01-421c-977f-8ec3a4e38a7a" width="200"/>
-
-## **🎭 CODE PHILOSOPHY & MANTRAS** 🎭
-
-### 💫 **DEVELOPER'S CREED** 💫
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-**🔥 THE CODING FIRE**
-<br/>
-_"In a world full of bugs, be the elegant solution!"_
-<br/>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb2cd02-06aa-4fc5-8fe4-12808b88e894" width="60"/>
-
-</td>
-<td width="50%" align="center">
-
-**🚀 THE INNOVATION DRIVE**
-<br/>
-_"Every line of code is a step towards digital revolution!"_
-<br/>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83f4e5-f9e2-4ade-8958-b15aae0207a0" width="60"/>
-
-</td>
-</tr>
-</table>
-
-### ⚡ **DAILY MANTRAS** ⚡
-
-> 🎯 **"Code with passion, debug with patience, deploy with pride!"**
->
-> 💻 **"First solve the problem, then write the code!"**
+code!"**
 >
 > 🚀 **"Make it work, make it right, make it fast!"**
 
